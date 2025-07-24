@@ -9,4 +9,4 @@
 1. [Вступление](Introduction.md)
 2. [Подготовка](Preparation.md)
 3. [Monkeytype](Monkeytype.md)
-4. [Учим пальцы попадать](Stage%201%20Looking%20for%20keycups.md)
+4. [Учим пальцы попадать](Stage%20One.md)
