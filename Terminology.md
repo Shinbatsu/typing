@@ -44,11 +44,12 @@
 9. TIME - время одной итеграции задания.
 
 ## Модификаторы
-Для тренировки того или иного аспекта мы будем использовать различные модификаторы с сайта monkeytype. Ниже приведен полный список модификаторов и как их настроить.
-1. Funbox - Random Case
-2. Funbox - Read ahead
-3. Funbox - Plus One, Plus Zero
-4. Pace caret - бегущая каретка
-5. Difficulty - Master, expert
-6. Blind mode - True
-7. Mode - works, time, quote, quote
+Для тренировки того или иного аспекта мы будем использовать различные модификаторы с сайта monkeytype. Ниже приведен полный список модификаторов и как их настроить:
+
+1. Funbox - Random Case. **Esc -> Funbox -> Random Case**.
+2. Funbox - Read ahead. **Esc -> Funbox -> Read ahead**
+3. Funbox - Plus One, Plus Zero. **Esc -> Funbox -> Plus ...**
+4. Pace caret - Daily, Custom.**Esc -> Pace caret -> daily, custom**
+5. Difficulty - Master, expert. **Esc -> Difficulty -> Master, expert**
+6. Blind mode - True.**Esc -> Blind mode -> True**
+7. Mode - works, time, quote.**Just select: time, words or quote**
