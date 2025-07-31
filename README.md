@@ -2,7 +2,7 @@
 
 ## Онлайн версия
 
-[Git Book](https://mad.gitbook.io/the-typing/podgotovka)
+[Git Book](https://malware-analysis-department.gitbook.io/the-typing/)
 
 ## Что это?
 
